@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+nltk
+xgboost
+catboost
+keras
+tensorflow
+opencv-python
+openpyxl
